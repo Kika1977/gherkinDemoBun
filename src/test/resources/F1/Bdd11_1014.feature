@@ -8,7 +8,7 @@ Feature: Bbbriki
 		Then 33
 
 @TSCID1125
-	Scenario: Bdd2
+	Scenario: Bdd212
 		Given 22
 		When 44
 		Then 66
