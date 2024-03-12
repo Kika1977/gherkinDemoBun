@@ -2,7 +2,7 @@
 @BSPID33013REV0.2.0
 Feature: RikiBdd12
 @TSCID2265015
-	Scenario: Bdd1
+	Scenario: Bdd123
 		Given 11
 		When 22
 		Then 33
