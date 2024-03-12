@@ -12,3 +12,9 @@ Feature: RikiBdd12
 		Given 22
 		When 44
 		Then 66
+
+@TSCID2265016
+	Scenario: Bdd21222112112
+		Given 22
+		When 44
+		Then 66
