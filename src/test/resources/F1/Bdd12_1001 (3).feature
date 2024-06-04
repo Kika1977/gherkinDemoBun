@@ -8,7 +8,7 @@ Feature: Bdd12
 		Then 33
 
 @TSCID1002
-	Scenario: Bdd2
+	Scenario: Bdd2225566
 		Given 22
 		When 44
 		Then 88
