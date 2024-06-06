@@ -2,12 +2,12 @@
 @BSPID35001REV0.2.0
 Feature: Bdd12
 @TSCID2333022
-	Scenario:
+	Scenario: Bdd1
 		Given 11
 		When 22
 		Then 33
 
-@TSCID2333023
+@TSCID2333022
 	Scenario: Bdd2
 		Given 22
 		When 44
