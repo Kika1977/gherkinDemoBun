@@ -2,7 +2,7 @@
 @BSPID36001REV0.5.0
 Feature: Bdd1020
 @TSCID2334014
-	Scenario: Bdd1010
+	Scenario: Bdd1010test
 		Given 11
 		When 22
 		Then 33
