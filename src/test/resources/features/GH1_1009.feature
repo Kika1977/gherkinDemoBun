@@ -1,5 +1,5 @@
 #Auto generated Octane revision tag
-Feature: GherkinTest
+Feature: TestReportCPI
 	Scenario: GH
 		Given 11
 		When 22
