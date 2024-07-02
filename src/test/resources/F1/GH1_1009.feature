@@ -10,7 +10,8 @@ Feature: GherkinTest
 		When 22
 		Then 44
 
+	@exclude
 	Scenario: GHtest
-		Given bla
-		When bla
-		Then bla
+		Given 22
+		When 44
+		Then 66
