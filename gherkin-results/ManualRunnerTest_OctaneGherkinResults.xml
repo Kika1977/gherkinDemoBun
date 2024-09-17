@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><features version="1">
+    <feature name="GherkinTest" path="src\test\resources\F1\GH1_1009.feature" started="1719914922752" tag="">
+        <file>
+            <![CDATA[#Auto generated Octane revision tag
+Feature: GherkinTest
+	Scenario: GH
+		Given 11
+		When 22
+		Then 33
+
+	Scenario: GH2
+		Given 22
+		When 22
+		Then 44
+
+	@exclude
+	Scenario: GHtest
+		Given 22
+		When 44
+		Then 66]]>
+        </file>
+        <scenarios>
+            <scenario name="GH">
+                <steps>
+                    <step duration="25682100" name="Given 11" status="failed">
+                        <error_message>
+                            <![CDATA[java.lang.AssertionError: expected:<1> but was:<2>
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.Assert.failNotEquals(Assert.java:834)
+	at org.junit.Assert.assertEquals(Assert.java:645)
+	at org.junit.Assert.assertEquals(Assert.java:631)
+	at MyStepdefs.some(MyStepdefs.java:12)
+	at ✽.11(file:src/test/resources/F1/GH1_1009.feature:4)
+]]>
+                        </error_message>
+                    </step>
+                    <step duration="238200" name="When 22" status="skipped"/>
+                    <step duration="277100" name="Then 33" status="skipped"/>
+                </steps>
+            </scenario>
+            <scenario name="GH2">
+                <steps>
+                    <step duration="337700" name="Given 22" status="passed"/>
+                    <step duration="198300" name="When 22" status="passed"/>
+                    <step duration="281500" name="Then 44" status="passed"/>
+                </steps>
+            </scenario>
+        </scenarios>
+    </feature>
+</features>
