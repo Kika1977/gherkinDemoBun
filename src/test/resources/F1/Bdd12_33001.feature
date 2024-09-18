@@ -5,7 +5,7 @@ Feature: Bdd12
 	Scenario: Bdd1dfsf
 		Given 2
 		When 4
-		Then 6
+		Then 6444
 
 @TSCID2373004
 	Scenario: Bdd2
