@@ -12,3 +12,8 @@ Feature: Bdd12
 		Given 2
 		When 4
 		Then 6
+
+	Scenario: Bdd3
+		Given 22
+		When 44
+		Then 66
