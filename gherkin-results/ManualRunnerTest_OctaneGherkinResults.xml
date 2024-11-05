@@ -1,48 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><features version="1">
-    <feature name="GherkinTest" path="src\test\resources\F1\GH1_1009.feature" started="1719914922752" tag="">
+    <feature name="Bdd12" path="src\test\resources\F1\BDD12_34001.feature" started="1730808083994" tag="">
         <file>
             <![CDATA[#Auto generated Octane revision tag
-Feature: GherkinTest
-	Scenario: GH
-		Given 11
-		When 22
-		Then 33
+@BSPID34001REV0.2.0
+Feature: Bdd12
+@TSCID2444008
+	Scenario: Bdd1
+		Given 1
+		When 2
+		Then 3
 
-	Scenario: GH2
-		Given 22
-		When 22
-		Then 44
+@TSCID2444009
+	Scenario: Bdd2
+		Given 2
+		When 4
+		Then 6
 
-	@exclude
-	Scenario: GHtest
+	Scenario: Bdd3
 		Given 22
 		When 44
-		Then 66]]>
+		Then 66
+@manual1
+	Scenario: bdd4
+		Given 22
+		When 44
+		Then 66
+]]>
         </file>
         <scenarios>
-            <scenario name="GH">
+            <scenario name="bdd4">
                 <steps>
-                    <step duration="25682100" name="Given 11" status="failed">
-                        <error_message>
-                            <![CDATA[java.lang.AssertionError: expected:<1> but was:<2>
-	at org.junit.Assert.fail(Assert.java:88)
-	at org.junit.Assert.failNotEquals(Assert.java:834)
-	at org.junit.Assert.assertEquals(Assert.java:645)
-	at org.junit.Assert.assertEquals(Assert.java:631)
-	at MyStepdefs.some(MyStepdefs.java:12)
-	at ✽.11(file:src/test/resources/F1/GH1_1009.feature:4)
-]]>
-                        </error_message>
-                    </step>
-                    <step duration="238200" name="When 22" status="skipped"/>
-                    <step duration="277100" name="Then 33" status="skipped"/>
-                </steps>
-            </scenario>
-            <scenario name="GH2">
-                <steps>
-                    <step duration="337700" name="Given 22" status="passed"/>
-                    <step duration="198300" name="When 22" status="passed"/>
-                    <step duration="281500" name="Then 44" status="passed"/>
+                    <step duration="6486500" name="Given 22" status="passed"/>
+                    <step duration="190600" name="When 44" status="passed"/>
+                    <step duration="106800" name="Then 66" status="passed"/>
                 </steps>
             </scenario>
         </scenarios>
