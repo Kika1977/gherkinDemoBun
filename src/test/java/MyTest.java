@@ -3,7 +3,7 @@ import io.cucumber.junit.CucumberOptions;
 import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(plugin = "com.hpe.alm.octane.OctaneGherkinFormatter:gherkin-results/ManualRunnerTest_OctaneGherkinResults.xml",
-        features = "src/test/resources/F1/" , tags = "not @exclude")
+//@CucumberOptions(plugin = "com.hpe.alm.octane.OctaneGherkinFormatter:gherkin-results/ManualRunnerTest_OctaneGherkinResults.xml",
+@CucumberOptions(      features = "src/test/resources/F1/" , tags = "not @exclude")
 public class MyTest {
 }
