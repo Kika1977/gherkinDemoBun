@@ -3,17 +3,17 @@
 Feature: apscen21
 
 	Scenario: app121
-		Given dsf
-		When df
-		Then df
+		Given 44
+		When 22
+		Then 66
 
 
 	Scenario Outline: sda
-		Given <d> 
-		When  <df>  
-		Then sdf
+		Given aa
+		When  bb
+		Then cc
 
 	Examples:
 		| param1 | param2 |
-		| a      | 1      |
-		| b      | 2      |
+		| 2      | 4      |
+		| 3      | 5      |
