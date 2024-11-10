@@ -1,6 +1,6 @@
 #Auto generated Octane revision tag
 
-Feature: apscen21
+Feature: Outline21
 
 	Scenario: app121
 		Given 44
@@ -9,7 +9,7 @@ Feature: apscen21
 
 
 	Scenario Outline: sda
-		Given aa
+		Given 2
 		When  bb
 		Then cc
 
