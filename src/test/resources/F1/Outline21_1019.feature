@@ -21,8 +21,4 @@ Feature: Outline21
 		| param1 | param2 |
 		| 2      | 4      |
 		| 3      | 5      |
-@TSCID1283
-	Example: 77
-		Given 88
-		When 22
-		Then 66
+
