@@ -1,6 +1,7 @@
 #Auto generated Octane revision tag
 @BSPID1002REV0.3.0
 Feature: Bdd12
+	Rule: rule12
 @TSCID1008
 		Example: E1
 			Given 66
