@@ -1,5 +1,5 @@
 #Auto generated Octane revision tag
-@TID1574REV0.2.0
+
 Feature: Gh12
 	Rule: PassFailSkip
 		Example: pass
