@@ -33,8 +33,8 @@ lines
   Rule: first rule
     Background:
       Given first rule administrator named RG
-      * a blog named "RG's anti-tax rants"
-      * a customer named "RYBZ"
+      * a blog named RG's anti-tax rants
+      * a customer named RYBZ
 
   @Quick @nightly
   Example: Some another scenario 2
