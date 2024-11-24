@@ -5,9 +5,9 @@ multiple
 lines
 
   Background:
-    Given a global administrator named "Greg"
-    * a blog named "Greg's anti-tax rants"
-    * a customer named "Wilson"
+    Given a global administrator named Greg
+    * a blog named Greg's anti-tax rants
+    * a customer named Wilson
 
   @Quick @full @annoy
   Scenario: Some determinable business situation
@@ -32,7 +32,7 @@ lines
   @R1 @R2 @R3
   Rule: first rule
     Background:
-      Given first rule administrator named "RG"
+      Given first rule administrator named RG
       * a blog named "RG's anti-tax rants"
       * a customer named "RYBZ"
 
