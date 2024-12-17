@@ -1,5 +1,5 @@
 #Auto generated Octane revision tag
-@BSPID36001REV0.3.0
+@BSPID36001REV0.4.0
 Feature: BddAddRule123
 @TSCID2469001
 	Scenario: Scenario123
@@ -21,7 +21,7 @@ Feature: BddAddRule123
 			Then 66
 
 @TSCID2469004
-	Scenario Outline: OSUnderRule
+	Scenario Outline: OSUnderRule12
 		Given <param1> 
 		When  <param2>  
 		Then  <param3>  
