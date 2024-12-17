@@ -6,3 +6,8 @@ Feature: test1
 		Given 22
 		When 44
 		Then 66
+	@TSCID2469008
+	Scenario: Bdd112
+		Given 22
+		When 44
+		Then 66
