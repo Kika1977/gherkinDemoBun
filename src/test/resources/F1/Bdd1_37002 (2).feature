@@ -1,13 +1,13 @@
 #Auto generated Octane revision tag
-@BSPID37002REV0.4.0
-Feature: test1
-@TSCID2469008
-	Scenario: Bdd112
+
+Feature: test3
+
+	Scenario: BddBla
 		Given 22
 		When 44
 		Then 66
-	@TSCID2469008
-	Scenario: Bdd112
+
+	Scenario: BddBla
 		Given 22
 		When 44
 		Then 66
