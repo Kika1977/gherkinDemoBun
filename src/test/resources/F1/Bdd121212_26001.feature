@@ -8,8 +8,8 @@ Feature: test12
 		Given rt
 		When tr
 		Then rt
-
-	Scenario: test
+	@TSCID41025
+	Scenario: test1
 		Given rt
 		When tr
 		Then rt
