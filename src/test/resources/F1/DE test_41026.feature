@@ -1,6 +1,6 @@
 # language: de
 #Auto generated Octane revision tag
-@TID41026REV0.2.0
+
 Funktionalität: DEGherkinTest
 	Beispiel: DE test
 		Angenommen 11

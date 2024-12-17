@@ -1,6 +1,6 @@
 # language: nl
 #Auto generated Octane revision tag
-@TID41027REV0.2.0
+
 Functionaliteit: NlAddRuleTestGH
 	Regel: R1
 		Voorbeeld: E1
