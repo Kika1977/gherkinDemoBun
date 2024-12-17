@@ -1,6 +1,6 @@
 #Auto generated Octane revision tag
-@BSPID26001REV0.4.0
-Feature: test
+@BSPID26001REV0.5.0
+Feature: test12
 
 
 @TSCID41025
