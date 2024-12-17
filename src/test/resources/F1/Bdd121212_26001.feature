@@ -4,12 +4,7 @@ Feature: test12
 
 
 @TSCID41025
-	Scenario: test
-		Given rt
-		When tr
-		Then rt
-	@TSCID41025
-	Scenario: test1
+	Scenario: test12
 		Given rt
 		When tr
 		Then rt
