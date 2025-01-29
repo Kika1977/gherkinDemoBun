@@ -18,7 +18,7 @@ Functionaliteit: NlAddRuleTestGH
 		Als 2
 		Dan 3
 
-	Abstract Scenario: SOR
+	Abstract Scenario: SOR1
 		Gegeven <param1> 
 		Als  <param2>  
 		Dan  <param3>  
