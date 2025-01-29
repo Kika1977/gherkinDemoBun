@@ -18,7 +18,7 @@ Feature: bdds
 
 
 
-	Scenario: riki3
+	Scenario: riki1
 		Given 77
 		When 11
-		Then 771
+		Then 77
