@@ -1,7 +1,7 @@
 #Auto generated Octane revision tag
 @BSPID35001REV0.2.0
 Feature: Addrule
-	Rule: R1
+	Rule: R133
 @TSCID2543001
 		Scenario: E133
 			Given 1
