@@ -1,5 +1,5 @@
 #Auto generated Octane revision tag
-@BSPID35001REV0.2.0
+@BSPID35001REV0.3.0
 Feature: Addrule
 	Rule: R133
 @TSCID2543001
@@ -30,3 +30,16 @@ Feature: Addrule
 		| param1 | param2 | param3 |
 		| a      | 1      | 3      |
 		| b      | 2      | 4      |
+        
+	Rule: R2
+@TSCID2543005
+		Scenario: R2.2
+			Given 2
+			When 3
+			Then 4
+
+@TSCID2543006
+		Scenario: R2.3
+			Given r
+			When t
+			Then y
