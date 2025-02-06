@@ -3,13 +3,13 @@
 Feature: Addrule
 	Rule: R1
 @TSCID2543001
-		Scenario: E1
+		Scenario: E133
 			Given 1
 			When 2
 			Then 3
 
 @TSCID2543002
-		Scenario: E2
+		Scenario: E233
 			Given 4
 			When 6
 			Then 8
