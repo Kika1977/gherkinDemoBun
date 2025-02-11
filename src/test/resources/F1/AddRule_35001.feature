@@ -1,26 +1,25 @@
 #Auto generated Octane revision tag
-@BSPID35001REV0.4.0
+
 Feature: Addrule
 	Rule: R133
-@TSCID2543001
+
 		Scenario: E133
 			Given 1
 			When 2
 			Then 3
 
-@TSCID2543002
+
 		Scenario: E233
 			Given 4
 			When 6
 			Then 8
 
-@TSCID2543003
 	Scenario: s1uR
 		Given 11
 		When 22
 		Then 33
 
-@TSCID2543004
+
 	Scenario Outline: SOuR
 		Given <param1> 
 		When  <param2>  
@@ -32,13 +31,13 @@ Feature: Addrule
 		| b      | 2      | 4      |
         
 	Rule: R234
-@TSCID2543005
+
 		Scenario: R2.2
 			Given 2
 			When 3
 			Then 4
 
-@TSCID2543006
+
 		Scenario: R2.3
 			Given r
 			When t
