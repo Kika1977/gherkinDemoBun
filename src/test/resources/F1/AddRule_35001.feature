@@ -30,7 +30,7 @@ Feature: Addrule
 		| a      | 1      | 3      |
 		| b      | 2      | 4      |
         
-	Rule: R234
+	Rule: R133
 
 		Scenario: R2.2
 			Given 2
