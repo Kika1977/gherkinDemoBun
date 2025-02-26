@@ -9,7 +9,7 @@ Feature: rule tests
 			Then 33
 
 @TSCID1267
-		Scenario: pass
+		Scenario: pass1
 			Given 44
 			When 66
 			Then 88
@@ -22,7 +22,7 @@ Feature: rule tests
 			Then 0
 
 @TSCID1269
-		Scenario: pass
+		Scenario: pass2
 			Given 2
 			When 4
 			Then 6
