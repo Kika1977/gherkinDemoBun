@@ -15,7 +15,7 @@ Feature: Bdd12
 			Then 6
 
 @TSCID2525003
-		Scenario: E2
+		Scenario: E1
 			Given 6
 			When 8
 			Then 2
