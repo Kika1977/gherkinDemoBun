@@ -1,6 +1,6 @@
 # language: nl
 #Auto generated Octane revision tag
-@BSPID36004REV0.2.0
+@BSPID36004REV0.3.0
 #Auto generated Octane revision tag
 
 Functionaliteit: NlBddTest
@@ -21,7 +21,7 @@ Functionaliteit: NlBddTest
 
 
 @TSCID2566037
-	Abstract Scenario: SOR
+	Abstract Scenario: SOR12
 		Gegeven <param1> 
 		Als  <param2>  
 		Dan  <param3>  
