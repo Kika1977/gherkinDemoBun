@@ -33,7 +33,7 @@ Functionaliteit: NlBddTest
 
 
 @TSCID2566038
-	Voorbeeld: S1
+	Voorbeeld: S1S3423
 		Gegeven 11
 		Als 22
 		Dan 33
