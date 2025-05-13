@@ -2,16 +2,13 @@
 #Auto generated Octane revision tag
 
 
-
 Functionaliteit: NlBddTest
 	Regel: R1
-
 
 		Voorbeeld: e111
 			Gegeven ee
 			Als rr
 			Dan tt
-
 
 
 		Voorbeeld: e2
