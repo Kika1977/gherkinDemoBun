@@ -1,5 +1,5 @@
 #Auto generated Octane revision tag
-@TID1279REV0.5.0
+
 
 Feature: Online Shopping Checkout
 
