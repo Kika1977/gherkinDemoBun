@@ -1,5 +1,5 @@
 #Auto generated Octane revision tag
-@BSPID35001REV0.2.0
+@BSPID35001REV0.3.0
 Feature: BddRule
 @TSCID2612247
 	Scenario: S1
@@ -18,7 +18,7 @@ Feature: BddRule
 		| a      | 1      | 3      |
 		| b      | 2      | 4      |
 
-	Rule: R1
+	Rule: R11
 @TSCID2612249
 		Scenario: SR1
 			Given 22
