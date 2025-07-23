@@ -1,9 +1,9 @@
 #Auto generated Octane revision tag
-@BSPID35004REV0.2.0
+@BSPID35004REV0.3.0
 Feature: BRB
 
 @TSCID2661001
-    Scenario: S1
+    Scenario: S1test
         Given 1
         When 1
         Then 1
