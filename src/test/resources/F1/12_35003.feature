@@ -12,7 +12,7 @@ Ominaisuus: 12
         Niin fdd
 
     @TSCID2660013
-    Tapaus: Poista testi122121
+    Tapaus: Poista testi122121ff
         Oletetaan Poista testi
         Kun Poista testi
         Niin Poista testi
