@@ -6,7 +6,7 @@
 Ominaisuus: 12
 
     @TSCID2660012
-    Tapaus: bla
+    Tapaus: bla1212
         Oletetaan ds
         Kun sd
         Niin fdd
