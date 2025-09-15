@@ -9,7 +9,7 @@ Ominaisuus: 12
     Tapaus: bla1212
         Oletetaan ds
         Kun sd
-        Niin fdd
+        Niin fdd10212
 
     @TSCID2660013
     Tapaus: Poista testi122121ff
