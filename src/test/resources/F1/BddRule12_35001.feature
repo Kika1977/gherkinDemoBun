@@ -9,7 +9,7 @@ Feature: BddRule12
 
 	Rule: R!
 
-@TSCID2697001
+@TSCID2697002
 		Scenario: SR1Pass
 			Given 2
 			When 2
@@ -20,3 +20,9 @@ Feature: BddRule12
 			Given 3
 			When 2
 			Then 1
+
+@TSCID2697002
+      Scenario: SR1Pass
+        Given 2
+        When 2
+        Then 2
