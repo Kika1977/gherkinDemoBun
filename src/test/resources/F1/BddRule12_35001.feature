@@ -16,13 +16,7 @@ Feature: BddRule12
 			Then 2
 
 @TSCID2697003
-		Scenario: SR2Fail
+		Scenario: SR1Pass
 			Given 3
 			When 2
 			Then 1
-
-@TSCID2697002
-      Scenario: SR1Pass
-        Given 2
-        When 2
-        Then 2
