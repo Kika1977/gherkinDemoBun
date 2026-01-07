@@ -1,9 +1,9 @@
 #Auto generated Octane revision tag
-@BSPID2001REV0.6.0
+@BSPID2001REV0.6.1
 Feature: Bdd123
 @TSCID1125
 	Scenario: bdd1 
-		Given 11
+		Given 11111
 		When 2
 		Then 3
 
