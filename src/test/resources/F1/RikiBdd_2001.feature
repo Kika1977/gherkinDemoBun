@@ -1,5 +1,5 @@
 #Auto generated Octane revision tag
-@BSPID2001REV0.2.0
+
 Feature: Bdd123
 @TSCID1125
 	Scenario: bdd1
