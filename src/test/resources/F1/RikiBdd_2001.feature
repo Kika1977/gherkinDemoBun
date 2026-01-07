@@ -9,7 +9,7 @@ Feature: Bdd123
 
 @TSCID1126
 	Scenario: bdd2
-		Given 4
+		Given 4444
 		When 6
 		Then 8
 
