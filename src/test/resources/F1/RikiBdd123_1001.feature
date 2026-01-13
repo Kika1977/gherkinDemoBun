@@ -7,11 +7,7 @@ Feature: Riki123
 		When 1
 		Then 1
 
-@TSCID1002
-	Scenario: R20
-		Given 2
-		When 2
-		Then 2
+
 
 @TSCID1003
 	Scenario: R30
