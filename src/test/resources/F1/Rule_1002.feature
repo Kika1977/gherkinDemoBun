@@ -9,11 +9,6 @@ Feature: Rul11
 			When 4
 			Then 4
 
-@TSCID1005
-		Scenario: 53
-			Given 5
-			When 5
-			Then 5
 
 @TSCID1006
 	Scenario: 34
