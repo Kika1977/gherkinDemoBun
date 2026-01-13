@@ -7,16 +7,7 @@ Feature: Bdd12
 		When 12
 		Then 13
 
-@TSCID1002
-	Scenario Outline: bdd1212
-		Given <param1> 
-		When <param2> 
-		Then <param3> 
-
-		Examples:
-			| param1 | param2 | param3 |
-			| a      | 1      | 3      |
-			| b      | 2      | 4      |
+   |
 
 @TSCID1003
 	Scenario: bdd3
