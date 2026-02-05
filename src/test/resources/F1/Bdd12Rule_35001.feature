@@ -10,12 +10,12 @@ Feature: /RuleBdds
 	Rule: R12
 
 @TSCID2799005
-		Scenario: SR1
+		Scenario: SR2
 			Given 22
 			When 44
 			Then 66
 
-@TSCID2799005
+@TSCID2799006
 		Scenario: SR2
 			Given 66
 			When 55
