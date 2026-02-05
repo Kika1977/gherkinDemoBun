@@ -15,7 +15,7 @@ Feature: /RuleBdds
 			When 44
 			Then 66
 
-@TSCID2799006
+@TSCID2799005
 		Scenario: SR2
 			Given 66
 			When 55
