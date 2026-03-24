@@ -16,7 +16,7 @@ Feature: bddrules
 			Then 6
 
 @TSCID1268
-		Scenario: SR11
+		Scenario: SR1111111
 			Given 1
 			When 3
 			Then 5
