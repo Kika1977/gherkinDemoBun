@@ -1,5 +1,5 @@
 #Auto generated Octane revision tag
-@BSPID26001REV0.3.0
+@BSPID26001REV0.4.0
 Feature: demo
 
 @TSCID2270006
@@ -20,6 +20,7 @@ Examples:
 | Sally Dunn | VISA |
 | Pierre Bisset | American Express |
 | Masayoshi Horita | Cash |
+| Masayoshi Horita | CC |
 
 
 @TSCID2270007
