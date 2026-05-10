@@ -1,5 +1,5 @@
 #Auto generated Octane revision tag
-@BSPID1001REV0.1.0
+@BSPID1001REV0.2.0
 Feature: Purchase Process
   As a customer
   I want to purchase products from the retail site
@@ -48,6 +48,7 @@ Rule: User can complete a purchase
       | Address      | 123 Main Street |
       | City         | Anytown         |
       | Postal Code  | 12345           |
+      | Postal Code1  | 123455           |
     And the user clicks on "Continue"
     Then the payment information page should be displayed
 
