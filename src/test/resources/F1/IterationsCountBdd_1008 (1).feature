@@ -1,5 +1,5 @@
 #Auto generated Octane revision tag
-@BSPID1008REV0.2.0
+@BSPID1008REV0.3.0
 Feature: IterationsCountBddFeature
 @TSCID1268
 	Scenario Outline: IterationsCount
@@ -11,3 +11,4 @@ Feature: IterationsCountBddFeature
 			| param1 | param2 | param3 |
 			| a      | 1      | 3      |
 			| b      | 2      | 4      |
+            | c      | 3      | 5      |
