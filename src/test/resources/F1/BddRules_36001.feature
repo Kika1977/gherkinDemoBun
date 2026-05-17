@@ -1,7 +1,7 @@
 #Auto generated Octane revision tag
 @BSPID36001REV0.2.0
 Feature: BddRulesIteration
-@TSCID2855001
+@TSCID2855005
 	Scenario: S1
 		Given 11
 		When 22
@@ -15,7 +15,7 @@ Feature: BddRulesIteration
 			When 44
 			Then 66
 
-@TSCID2855002
+@TSCID2855003
 		Scenario: SR11
 			Given 66
 			When 88
