@@ -1,5 +1,5 @@
 #Auto generated Octane revision tag
-@BSPID36001REV0.2.0
+@BSPID36001REV0.3.0
 Feature: BddRulesIteration
 @TSCID2855001
 	Scenario: S1
@@ -37,3 +37,4 @@ Feature: BddRulesIteration
 			| param1 | param2 | param3 |
 			| a      | 1      | 3      |
 			| b      | 2      | 4      |
+            | d      | 3      | 5     |
