@@ -1,7 +1,7 @@
 #Auto generated Octane revision tag
 @BSPID36001REV0.2.0
 Feature: BddRulesIteration
-@TSCID2855005
+@TSCID2855001
 	Scenario: S1
 		Given 11
 		When 22
