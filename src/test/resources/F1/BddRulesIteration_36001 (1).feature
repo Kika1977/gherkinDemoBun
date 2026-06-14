@@ -1,5 +1,5 @@
 #Auto generated Octane revision tag
-@BSPID36001REV0.2.0
+@BSPID36001REV0.3.0
 #Auto generated Octane revision tag
 
 Feature: BddRulesIteration
@@ -45,3 +45,4 @@ Feature: BddRulesIteration
 			| a      | 1      | 3      |
 			| b      | 2      | 4      |
             | d      | 3      | 5     |
+            | e      | 6      | 7     |
