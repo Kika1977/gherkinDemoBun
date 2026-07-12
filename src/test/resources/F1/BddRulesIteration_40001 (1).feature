@@ -52,6 +52,6 @@ Feature: BddRulesIteration
 			| a      | 1      | 3      |
 			| b      | 2      | 4      |
             | b      | 3      | 5      |
-            | c      | 4      | 6      |
+
             
         
