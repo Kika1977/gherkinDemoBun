@@ -23,7 +23,7 @@ Feature: BddRulesIteration
 
 
 
-		Scenario: SR212
+		Scenario: SR1
 			Given 66
 			When 88
 			Then 22
