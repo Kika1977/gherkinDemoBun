@@ -3,25 +3,16 @@
 
 Feature: BddRulesIteration
 
-
-
 	Scenario: S12222
 		Given 11
 		When 22
 		Then 33
 
 	Rule: R1
-
-
-
-
 		Scenario: SR1
 			Given 22
 			When 44
 			Then 66
-
-
-
 
 		Scenario: SR1
 			Given 66
@@ -29,9 +20,7 @@ Feature: BddRulesIteration
 			Then 22
 
 
-
-
-	Scenario: Sr2
+Scenario: Sr2
 		Given 33
 		When 44
 		Then 55
