@@ -7,7 +7,7 @@ Feature: bdd123
 		When 22
 		Then 33
 
-	Scenario: Bdd2
+	Scenario: bdd1
 		Given 22
 		When 44
 		Then 66
